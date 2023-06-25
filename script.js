@@ -8,3 +8,6 @@ var c=100
 
 
 var d=70
+
+
+var e=250
